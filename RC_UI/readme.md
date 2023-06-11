@@ -11,7 +11,7 @@ To get started, follow these steps:
 
 Follow these instructions to run the user interface:
 
-1. Open the RCI scene in the Assets folder, along with the Map scene in the same folder.
+1. Open the RCI scene in the Assets/Scenes folder, along with the Map scene in the same folder.
 2. Use the toggle menu in the top-left corner to switch between different modes:
 
     * WO - Without mitigation method.
