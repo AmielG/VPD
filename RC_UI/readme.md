@@ -11,8 +11,9 @@ To get started, follow these steps:
 
 Follow these instructions to run the user interface:
 
-1. Open the RCI scene in the Assets/Scenes folder, along with the Map scene in the same folder.
-2. Use the toggle menu in the top-left corner to switch between different modes:
+1. Connect the Oculus Rift S and the Logitech G29 Driving Force Steering Wheels & Pedals to the computer.
+2. Open the RCI scene in the Assets/Scenes folder, along with the Map scene in the same folder.
+3. Use the toggle menu in the top-left corner to switch between different modes:
 
     * WO - Without mitigation method.
     * PD - With Predictive Display enabled.
