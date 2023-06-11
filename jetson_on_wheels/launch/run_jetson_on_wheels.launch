@@ -1,0 +1,10 @@
+<launch>
+	<include file="$(find rosbridge_server)/launch/rosbridge_websocket.launch"/>
+	<node pkg="jetson_on_wheels" name="motor_controller" type="motor_controller" output="screen">
+	    <param name="desire_delay" value="0.0" />
+	</node>
+	<node pkg="jetson_on_wheels" name="steering_controller" type="steering_controller" output="screen">
+		<param name="desire_delay" value="0.0" />
+	</node>
+	<node pkg="jetson_on_wheels" name="clock_sync" type="clock_sync" output="screen"/>    
+</launch>

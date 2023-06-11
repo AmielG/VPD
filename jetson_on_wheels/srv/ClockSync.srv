@@ -1,0 +1,8 @@
+#request field
+float64 previous_clock
+float64 predicted_clock
+---
+#response field
+float64 now
+float64 delay
+float64 sync_error
