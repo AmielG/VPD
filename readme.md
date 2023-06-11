@@ -5,5 +5,5 @@ The repository is divided into the following projects:
 - CarSimClient: A Python project responsible for connecting the vehicle simulation and the user interface.
 - RC_UI: This Unity project contains the user interface for controlling the remote vehicle in the simulation.
 - VR_CarSim: A Unity project that simulates the physics of the vehicle based on AirSim.
-- jetson_on_wheels: A ROS environment responsible for controlling the scaled-down vehicle with a Jetson Nano.
+- jetson_on_wheels: A ROS workspace responsible for controlling the scaled-down vehicle with a Jetson Nano.
 - VR_remote_control_car_client: A Unity project that includes the user interface for controlling the scaled-down vehicle.
