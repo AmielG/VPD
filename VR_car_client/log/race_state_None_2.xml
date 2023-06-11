@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<RaceState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <m_State>None</m_State>
+  <m_QueuedState>None</m_QueuedState>
+  <m_TimeInState>0</m_TimeInState>
+  <m_TimeDelay>0</m_TimeDelay>
+  <m_CurrentQualifier>None</m_CurrentQualifier>
+  <m_iQual>0</m_iQual>
+  <m_CurrentQualElapsed>0</m_CurrentQualElapsed>
+  <m_Stage1Next>0</m_Stage1Next>
+  <m_Stage2Next>0</m_Stage2Next>
+  <m_RaceRestarts>0</m_RaceRestarts>
+  <m_RaceRestartsLimit>3</m_RaceRestartsLimit>
+  <m_AnyCompetitorFinishALap>false</m_AnyCompetitorFinishALap>
+  <m_UseCheckpointDuringPractice>true</m_UseCheckpointDuringPractice>
+  <m_UsePracticeTimer>false</m_UsePracticeTimer>
+  <m_CheckPointDelay>20</m_CheckPointDelay>
+  <m_PracticeTime>180000</m_PracticeTime>
+  <m_QualTime>1800</m_QualTime>
+  <m_IntroTime>300</m_IntroTime>
+  <m_TimeLimitQual>100</m_TimeLimitQual>
+  <m_BetweenStageTime>10</m_BetweenStageTime>
+  <m_BetweenStageTwoTime>20</m_BetweenStageTwoTime>
+  <m_TimeLimitRace>120</m_TimeLimitRace>
+  <m_MinCompetitorCount>3</m_MinCompetitorCount>
+  <m_RacerBioDisplayTime>15</m_RacerBioDisplayTime>
+  <m_TimeToShowRaceSummary>60</m_TimeToShowRaceSummary>
+  <m_Stage1Order />
+  <m_Stage2a_4pairs />
+  <m_Stage2b_2pairs />
+  <m_Stage2c_final />
+  <m_Competitors />
+</RaceState>
